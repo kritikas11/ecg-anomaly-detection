@@ -1,0 +1,3 @@
+mitdb_local/
+beats_cache_v2.npz
+__pycache__/
