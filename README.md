@@ -103,7 +103,3 @@ Beats are cached in `beats_cache_v2.npz` after the first run. Delete that file i
 - Only five folds: F1 differences below about 0.03 are noise.
 - No hyperparameter tuning for any model.
 - One lead and one database. The normal and abnormal grouping is a modelling choice (bundle branch block beats count as normal).
-
-## Author
-
-Kritika, B.Tech Electronics and Communication Engineering, JIIT Noida.
